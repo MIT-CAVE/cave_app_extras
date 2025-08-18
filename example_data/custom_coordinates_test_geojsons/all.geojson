@@ -106,8 +106,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "3",
-                "length": "long"
+                "id": "3"
             },
             "geometry": {
                 "type": "MultiLineString",
