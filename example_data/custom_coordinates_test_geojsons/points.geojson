@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "multi1"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        50,
+                        43.2
+                    ],
+                    [
+                        93.2,
+                        2
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "single"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5,
+                    50
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "multi2"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        150,
+                        20
+                    ],
+                    [
+                        100,
+                        40
+                    ]
+                ]
+            }
+        }
+    ]
+}
